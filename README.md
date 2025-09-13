@@ -3,6 +3,10 @@
 A simple, interactive **Credit Card Input** for Android, with real-time formatting and validation.  
 It mimics a real credit card form, making it intuitive for users to input card details safely and cleanly.
 
+<div align="center">
+  <img src="app/src/main/res/layout.jpg" alt="layout" width="400"/>
+</div>
+
 ---
 
 ## 🚀 Features
